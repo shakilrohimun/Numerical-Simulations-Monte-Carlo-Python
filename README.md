@@ -1,8 +1,11 @@
-[![Language](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
+# Numerical Methods & Probabilistic Simulation
 
-# Numerical Methods & Probabilistic Simulation — Practical Project
+<!-- Enable LaTeX rendering -->
+<script type="text/javascript"
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
-> Master’s level practicals in numerical methods and probability, implemented in Python (NumPy/Matplotlib).
+> Master’s level practicals in numerical methods and probability, implemented in [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/) (NumPy/Matplotlib).
 
 ## Executive Summary
 
